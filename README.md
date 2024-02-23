@@ -1,5 +1,6 @@
-![GitHub Image](/images/your-image.png)
-# Ignacio Lista: Portfolio
+![GitHub Image](background.png)
+
+# Ignacio Lista: Portfolio 💼
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
@@ -31,7 +32,8 @@ You can download my CV as a PDF from my Google Drive: https://drive.google.com/f
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
-__Manual testing__
+ __Manual testing__
+
   * can perform manual functional and usability testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
 
