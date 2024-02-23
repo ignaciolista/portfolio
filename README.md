@@ -32,6 +32,10 @@ __Manual testing__
   * can perform manual functional and usability testing of web applications
   * gained hands-on experience by testing applications created for educational purposes
 
+ __Automation testing__
+  * can perform automated functional and usability testing of web applications
+  * gained hands-on experience by testing applications created for educational purposes mostly.
+
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
@@ -49,15 +53,15 @@ __Test documentation__
   * able to prepare comprehensive bug reports and provide detailed session reports
 
 __SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+  * can write basic/intermediate requests using subqueries
 
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+__JavaScript fundamentals__
+  * understanding of functions, objets, conditionals and entire structure of the language.  
+  * able to comprehend intermediate/advance level codes
 
+__HTML and CSS__
+  * Knownledge of the HTML structure, with the hability to design a develop a simple site with CSS.
+    
 ## Tools
 
 __TestRail__
