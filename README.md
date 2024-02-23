@@ -58,7 +58,7 @@ __Test documentation__
 __SQL databases__
   * can write basic/intermediate requests using subqueries
 
-__JavaScript fundamentals__
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>__JavaScript fundamentals__
   * understanding of functions, objets, conditionals and entire structure of the language.  
   * able to comprehend intermediate/advance level codes
 
@@ -67,7 +67,7 @@ __HTML and CSS__
     
 ## Tools
 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>__Cypress__
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>__Cypress__
   * k
   * a
 
