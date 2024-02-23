@@ -1,5 +1,3 @@
-![GitHub Image](background.png)
-
 # Ignacio Lista: Portfolio 💼
 - [About me](#about-me)
 - [CV](#cv)
