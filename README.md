@@ -62,7 +62,7 @@ __SQL databases__
   * understanding of functions, objets, conditionals and entire structure of the language.  
   * able to comprehend intermediate/advance level codes
 
-__HTML and CSS__
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="html" width="40" height="40"/>__HTML and CSS__
   * Knownledge of the HTML structure, with the hability to design a develop a simple site with CSS.
     
 ## Tools
