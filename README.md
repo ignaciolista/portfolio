@@ -68,6 +68,8 @@ __HTML and CSS__
 ## Tools
 
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>__Cypress__
+  * k
+  * a
 
 __TestRail__
   * know how to create test cases and test suits
