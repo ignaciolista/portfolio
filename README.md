@@ -67,6 +67,8 @@ __HTML and CSS__
     
 ## Tools
 
+__Cypress__
+
 __TestRail__
   * know how to create test cases and test suits
   * able to run created test cases
