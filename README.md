@@ -1,3 +1,4 @@
+![GitHub Image](/images/your-image.png)
 # Ignacio Lista: Portfolio
 - [About me](#about-me)
 - [CV](#cv)
@@ -10,6 +11,8 @@
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
+
+  
 
 ## About me
 
