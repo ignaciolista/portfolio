@@ -1,4 +1,4 @@
-# Portfolio
+# Ignacio Lista: Portfolio
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
