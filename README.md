@@ -34,7 +34,7 @@ __Manual testing__
 
  __Automation testing__
   * can perform automated functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes mostly.
+  * gained hands-on experience by testing web and mobile applications created for educational purposes mostly.
 
 __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
@@ -42,11 +42,11 @@ __Test analysis & design__
 
 __API testing__
   * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
+  * gained experience through manual testing of APIs created for educational purposes mostly and a little bit in a real job.
   * know how to manipulate requests and create test cases using the SoapUI tool
 
 __Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+  * capable of creating cheat-lists for testing web and mobile applications.
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
@@ -80,11 +80,8 @@ __Browser developer tools__
 __VirtualBox__
   * able to set up and operate virtual machines
 
-__Trello and Notion__
+__Trello and Taiga__
   * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
 
 ## Courses
 
