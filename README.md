@@ -79,6 +79,10 @@ __Browser developer tools__
 
   * know how to use Kanban boards and track project progress
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_nJ77U2jPz8ucJvS_pwlgjs55l9gF3Vt1fqPoUQZJBQXYbQBBz3sKDboxNePkCUK0Ng&usqp=CAU" alt="sqlite" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" width="30" height="30"/>__SQLite/MySQL/MariaDB__
+
+
+
 ## Courses
 
 __Robot Framework Test Automation, Levels 1-4__  
@@ -96,7 +100,6 @@ __Onboarding to Testing · Jedi Point__
 *online course by Quality Lab, Moscow, Russia*  
 An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
 [Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
-
 
 ## Examples of my work
 
