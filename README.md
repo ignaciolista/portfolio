@@ -56,7 +56,7 @@ __SQL databases__
     
 ## Tools
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>__Cypress__
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="25" height="25"/>__Cypress__
   * k
   * a
 
@@ -68,7 +68,7 @@ __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cypress" width="40" height="40"/>__Postman__
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cypress" width="25" height="25"/>__Postman__
 
 __Browser developer tools__
 
