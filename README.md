@@ -63,13 +63,12 @@ __SQL databases__
 __TestRail__
   * know how to create test cases and test suits
   * able to run created test cases
-  * know how to use dashboards and statistics
-
+  
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__SoapUI__
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cypress" width="40" height="40"/>__Postman__
 
 __Browser developer tools__
 
