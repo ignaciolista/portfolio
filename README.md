@@ -51,7 +51,7 @@ __SQL databases__
   * understanding of functions, objets, conditionals and the structure of the language.  
   * able to comprehend intermediate/advance level codes
 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="25" height="25"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="html" width="25" height="25"/>__HTML and CSS__
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="25" height="25"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="25" height="25"/>__HTML and CSS__
   * Knownledge of the HTML structure, with the hability to design a develop a simple site with CSS.
     
 ## Tools
@@ -64,16 +64,16 @@ __TestRail__
   * know how to create test cases and test suits
   * able to run created test cases
   
-__Jira__
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="25" height="25"/>__Jira__
+
   * know how to create bug reports
   * able to create projects and track their progress
 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cypress" width="25" height="25"/>__Postman__
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/>__Postman__
 
 __Browser developer tools__
 
-__VirtualBox__
-  * able to set up and operate virtual machines
+<img src="" alt="cypress" width="25" height="25"/>
 
 __Trello and Taiga__
   * know how to use Kanban boards and track project progress
