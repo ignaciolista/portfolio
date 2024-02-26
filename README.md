@@ -1,4 +1,4 @@
-# Ignacio Lista: Tester QA_Portfolio 💼
+# Tester QA_Portfolio 💼
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
