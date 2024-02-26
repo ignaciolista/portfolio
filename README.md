@@ -15,13 +15,11 @@
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background working in diferent IT areas for the last 15 years has help's me to facilitate introduce myself at new challenges. And on the other, due to my personality, I love to learn, work in homogeneous teams that let not only better understanding of a problem and fix it, if not to have a better time.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+Currently, I am intensely studying techniques and tools by attending online courses and testing web/mobile applications mostly created for learning purposes for in a near future put this new knowlwdge in action in a job. 
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+At this point I consider myself as a mid-level software tester by my experience and the knowledge I been learning in the last few years.
 
 ## Resume
 You can download my resume as a PDF from my Google Drive: https://drive.google.com/file/d/1C2luliHqcNUC9oOBeT93zu8BS7F1B9Mz/view?usp=drive_link
@@ -32,28 +30,23 @@ You can find examples of the described skills in the [Examples of my work](#exam
 
  __Manual testing__
 
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+  * can perform manual functional and usability testing of web/mobile applications.
+  * gained hands-on experience by testing applications at work and for educational purposes.
 
  __Automation testing__
-  * can perform automated functional and usability testing of web applications
-  * gained hands-on experience by testing web and mobile applications created for educational purposes mostly.
-
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+  * can perform automated functional and usability testing of web applications.
+  * gained hands-on experience by testing web and mobile applications at work and for educational purposes mostly.
 
 __API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes mostly and a little bit in a real job.
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
+  * know the difference between SOAP and REST APIs.
+  * gained experience through manual testing of APIs a little bit at work and mostly for educational purposes.
+  
 __Exploratory testing__
   * capable of creating cheat-lists for testing web and mobile applications.
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+  * can create test cases and checklists and know how and in which situations to use them effectively.
+  * able to prepare comprehensive bug reports and provide detailed session reports.
 
 __SQL databases__
   * can write basic/intermediate requests using subqueries
