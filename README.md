@@ -19,7 +19,7 @@ I am a positive-thinking person who possesses two sides of power. On one hand, I
 
 Currently, I am intensely studying techniques and tools by attending online courses and testing web/mobile applications mostly created for learning purposes for in a near future put this new knowlwdge in action in a job. 
 
-At this point I consider myself as a mid-level software tester by my experience and the knowledge I been learning in the last few years.
+At this point I consider myself as a mid-level software tester by my experience and knowledge I been learning in the last few years.
 
 ## Resume
 You can download my resume as a PDF from my Google Drive: https://drive.google.com/file/d/1C2luliHqcNUC9oOBeT93zu8BS7F1B9Mz/view?usp=drive_link
