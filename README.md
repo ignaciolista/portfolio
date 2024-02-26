@@ -39,9 +39,6 @@ You can find examples of the described skills in the [Examples of my work](#exam
 
 __API testing__
   * gained experience through manual testing of APIs a little bit at work and mostly for educational purposes.
-  
-__Exploratory testing__
-  * capable of creating cheat-lists for testing web and mobile applications.
 
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively.
