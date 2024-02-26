@@ -63,7 +63,7 @@ __SQL databases__
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="cypress" width="25" height="25"/>__Jenkins__
   * know how to create test cases and test suits
   * able to run created test cases
-  
+
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="25" height="25"/>__Jira__
 
   * know how to create bug reports
@@ -71,7 +71,6 @@ __SQL databases__
 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/>__Postman__
 
-__Browser developer tools__
 
 <img src="" alt="cypress" width="25" height="25"/>
 
@@ -80,7 +79,6 @@ __Browser developer tools__
   * know how to use Kanban boards and track project progress
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_nJ77U2jPz8ucJvS_pwlgjs55l9gF3Vt1fqPoUQZJBQXYbQBBz3sKDboxNePkCUK0Ng&usqp=CAU" alt="sqlite" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" width="30" height="30"/>__SQLite/MySQL/MariaDB__
-
 
 
 ## Courses
