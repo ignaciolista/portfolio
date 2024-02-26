@@ -38,7 +38,6 @@ You can find examples of the described skills in the [Examples of my work](#exam
   * gained hands-on experience by testing web and mobile applications at work and for educational purposes mostly.
 
 __API testing__
-  * know the difference between SOAP and REST APIs.
   * gained experience through manual testing of APIs a little bit at work and mostly for educational purposes.
   
 __Exploratory testing__
@@ -52,7 +51,7 @@ __SQL databases__
   * can write basic/intermediate requests using subqueries
 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>__JavaScript fundamentals__
-  * understanding of functions, objets, conditionals and entire structure of the language.  
+  * understanding of functions, objets, conditionals and the structure of the language.  
   * able to comprehend intermediate/advance level codes
 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="html" width="40" height="40"/>__HTML and CSS__
