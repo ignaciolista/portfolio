@@ -60,7 +60,7 @@ __SQL databases__
   * k
   * a
 
-__TestRail__
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="cypress" width="25" height="25"/>__Jenkins__
   * know how to create test cases and test suits
   * able to run created test cases
   
