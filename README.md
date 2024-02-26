@@ -75,7 +75,8 @@ __Browser developer tools__
 
 <img src="" alt="cypress" width="25" height="25"/>
 
-__Trello and Taiga__
+<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="25" height="25"/><img src="https://i.pcmag.com/imagery/reviews/05ytXbuzmj4tffmbZKU1msC-9.fit_scale.size_760x427.v1569475207.png" alt="taiga" width="25" height="25"/>__Trello and Taiga__
+
   * know how to use Kanban boards and track project progress
 
 ## Courses
