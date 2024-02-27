@@ -7,9 +7,7 @@
 - [Examples of my work](#examples-of-my-work)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
 
   
 
@@ -58,8 +56,8 @@ __HTML and CSS__
  . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLvEDEFSAgvV508J03vNTFLcOUx5lj9r-u9-CCju9eqr1aBKQO3Zvy9ZC4IoE8RTIrI8&usqp=CAU" width="25" height="25"/>__Jmeter__ . <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/a/appium.svg" width="25" height="25"/>__Appium__ . <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="25" height="25"/>__Visual Studio Code__ . <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/>__Git__ . <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" width="25" height="25"/>__Playwright__ . <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="25" height="25"/>__Cypress__ . <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25" height="25"/>__Jenkins__ . <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="25" height="25"/>__Jira__ . <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25" height="25"/>__Postman__ . <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="25" height="25"/> <img src="https://i.pcmag.com/imagery/reviews/05ytXbuzmj4tffmbZKU1msC-9.fit_scale.size_760x427.v1569475207.png" width="25" height="25"/>__Trello and Taiga: Agile methodologies__ . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_nJ77U2jPz8ucJvS_pwlgjs55l9gF3Vt1fqPoUQZJBQXYbQBBz3sKDboxNePkCUK0Ng&usqp=CAU" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" width="30" height="30"/>__SQLite/MySQL/MariaDB__ . <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/testrail.svg" width="25" height="25"/>__TestRail__
 
 
-<img src="" width="25" height="25"/>__Git__
-https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/testrail.svg
+<!---    <img src="" width="25" height="25"/>__Git__   -->
+
 ## Courses
 
 __Cypress: version 12__  
@@ -75,17 +73,19 @@ __JavaScript TOTAL - From Cero to Web Developer in 18 Days__
 An intensive course where i've learn fundamentals and the complete javascript structure. :white_check_mark:
 
 ## Examples of my work
+Working on it...
 
+<!--- 
 ### Test cases and work in TestRail
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
+  - [The training webshop](http://automationpractice.com/) was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
   * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
 
 - [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
   * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing). 
 
 
 ### Bug reports and work in Jira
@@ -101,7 +101,6 @@ An intensive course where i've learn fundamentals and the complete javascript st
 * Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
 * Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
-## Books I have read
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
+-->
 
-__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+
