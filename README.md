@@ -56,30 +56,9 @@ __SQL databases__
     
 ## Tools
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="25" height="25"/>__Cypress__
-  * k
-  * a
+ . <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="25" height="25"/>__Visual Studio Code__ . <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/>__Git__ . <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" width="25" height="25"/>__Playwright__ . <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="25" height="25"/>__Cypress__ . <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25" height="25"/>__Jenkins__ . <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="25" height="25"/>__Jira__ . <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25" height="25"/>__Postman__ . <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="25" height="25"/> <img src="https://i.pcmag.com/imagery/reviews/05ytXbuzmj4tffmbZKU1msC-9.fit_scale.size_760x427.v1569475207.png" width="25" height="25"/>__Trello and Taiga: Agile methodologies__ . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_nJ77U2jPz8ucJvS_pwlgjs55l9gF3Vt1fqPoUQZJBQXYbQBBz3sKDboxNePkCUK0Ng&usqp=CAU" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" width="30" height="30"/>__SQLite/MySQL/MariaDB__
 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="cypress" width="25" height="25"/>__Jenkins__
-  * know how to create test cases and test suits
-  * able to run created test cases
-
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="25" height="25"/>__Jira__
-
-  * know how to create bug reports
-  * able to create projects and track their progress
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/>__Postman__
-
-
-<img src="" alt="cypress" width="25" height="25"/>
-
-<img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="25" height="25"/><img src="https://i.pcmag.com/imagery/reviews/05ytXbuzmj4tffmbZKU1msC-9.fit_scale.size_760x427.v1569475207.png" alt="taiga" width="25" height="25"/>__Trello and Taiga: Agile methodologies__
-
-  * know how to use Kanban boards and track project progress
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_nJ77U2jPz8ucJvS_pwlgjs55l9gF3Vt1fqPoUQZJBQXYbQBBz3sKDboxNePkCUK0Ng&usqp=CAU" alt="sqlite" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" width="30" height="30"/>__SQLite/MySQL/MariaDB__
-
+<img src="" width="25" height="25"/>__Git__
 
 ## Courses
 
@@ -87,17 +66,17 @@ __Robot Framework Test Automation, Levels 1-4__
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
 An intensive course in test automation with Robot Framework.  
 [Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
+*Level 2-4 in progress*  :white_check_mark:
 
 __The 1st Online Institute of Software Testing__  
 *online course by Quality Lab, Moscow, Russia*  
 A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)  :white_check_mark:
 
 __Onboarding to Testing · Jedi Point__  
 *online course by Quality Lab, Moscow, Russia*  
 An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)  :white_check_mark:
 
 ## Examples of my work
 
