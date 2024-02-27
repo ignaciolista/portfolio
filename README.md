@@ -47,35 +47,32 @@ __Test documentation__
 __SQL databases__
   * can write basic/intermediate requests using subqueries
 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="25" height="25"/>__JavaScript fundamentals__
+__JavaScript fundamentals__
   * understanding of functions, objets, conditionals and the structure of the language.  
   * able to comprehend intermediate/advance level codes
 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="25" height="25"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="25" height="25"/>__HTML and CSS__
+__HTML and CSS__
   * Knownledge of the HTML structure, with the hability to design a develop a simple site with CSS.
     
 ## Tools
- . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLvEDEFSAgvV508J03vNTFLcOUx5lj9r-u9-CCju9eqr1aBKQO3Zvy9ZC4IoE8RTIrI8&usqp=CAU" width="25" height="25"/>__Jmeter__ . <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/a/appium.svg" width="25" height="25"/>__Appium__ . <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="25" height="25"/>__Visual Studio Code__ . <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/>__Git__ . <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" width="25" height="25"/>__Playwright__ . <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="25" height="25"/>__Cypress__ . <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25" height="25"/>__Jenkins__ . <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="25" height="25"/>__Jira__ . <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25" height="25"/>__Postman__ . <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="25" height="25"/> <img src="https://i.pcmag.com/imagery/reviews/05ytXbuzmj4tffmbZKU1msC-9.fit_scale.size_760x427.v1569475207.png" width="25" height="25"/>__Trello and Taiga: Agile methodologies__ . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_nJ77U2jPz8ucJvS_pwlgjs55l9gF3Vt1fqPoUQZJBQXYbQBBz3sKDboxNePkCUK0Ng&usqp=CAU" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" width="30" height="30"/>__SQLite/MySQL/MariaDB__
+ . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLvEDEFSAgvV508J03vNTFLcOUx5lj9r-u9-CCju9eqr1aBKQO3Zvy9ZC4IoE8RTIrI8&usqp=CAU" width="25" height="25"/>__Jmeter__ . <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/a/appium.svg" width="25" height="25"/>__Appium__ . <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="25" height="25"/>__Visual Studio Code__ . <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/>__Git__ . <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" width="25" height="25"/>__Playwright__ . <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="25" height="25"/>__Cypress__ . <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25" height="25"/>__Jenkins__ . <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="25" height="25"/>__Jira__ . <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25" height="25"/>__Postman__ . <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="25" height="25"/> <img src="https://i.pcmag.com/imagery/reviews/05ytXbuzmj4tffmbZKU1msC-9.fit_scale.size_760x427.v1569475207.png" width="25" height="25"/>__Trello and Taiga: Agile methodologies__ . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_nJ77U2jPz8ucJvS_pwlgjs55l9gF3Vt1fqPoUQZJBQXYbQBBz3sKDboxNePkCUK0Ng&usqp=CAU" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" width="30" height="30"/>__SQLite/MySQL/MariaDB__ . <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/testrail.svg" width="25" height="25"/>__TestRail__
+
 
 <img src="" width="25" height="25"/>__Git__
-
+https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/testrail.svg
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*  :white_check_mark:
+__Cypress: version 12__  
+*online course, Udemy*  
+An intensive course in test automation with Cypress Framework.  :white_check_mark:
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)  :white_check_mark:
+__Playwright__  
+*online course, Udemy*  
+An intensive course in test automation with Playwright Framework.  :white_check_mark:
 
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)  :white_check_mark:
+__JavaScript TOTAL - From Cero to Web Developer in 18 Days__  
+*online course, Udemy*  
+An intensive course where i've learn fundamentals and the complete javascript structure. :white_check_mark:
 
 ## Examples of my work
 
