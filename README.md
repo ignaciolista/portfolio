@@ -1,8 +1,7 @@
 # Tester QA_Portfolio 💼
 - [About me](#about-me)
 - [Resume](#Resume)
-- [Skills](#skills)
-- [Tools](#tools)
+- [Skills and Tools](#Skills-and-Tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
 <!---  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
@@ -50,7 +49,7 @@ __JavaScript fundamentals__
 __HTML and CSS__
   * Knownledge of the HTML structure, with the hability to design a develop a simple site with CSS.
     
-## Tools
+## Skills and Tools
  . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLvEDEFSAgvV508J03vNTFLcOUx5lj9r-u9-CCju9eqr1aBKQO3Zvy9ZC4IoE8RTIrI8&usqp=CAU" width="25" height="25"/>__Jmeter__ . <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/a/appium.svg" width="25" height="25"/>__Appium__ . <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="25" height="25"/>__Visual Studio Code__ . <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/>__Git__ . <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/playwright.svg" width="25" height="25"/>__Playwright__ . <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="25" height="25"/>__Cypress__ . <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25" height="25"/>__Jenkins__ . <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="25" height="25"/>__Jira__ . <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25" height="25"/>__Postman__ . <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="25" height="25"/> <img src="https://i.pcmag.com/imagery/reviews/05ytXbuzmj4tffmbZKU1msC-9.fit_scale.size_760x427.v1569475207.png" width="25" height="25"/>__Trello and Taiga: Agile methodologies__ . <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_nJ77U2jPz8ucJvS_pwlgjs55l9gF3Vt1fqPoUQZJBQXYbQBBz3sKDboxNePkCUK0Ng&usqp=CAU" width="30" height="30"/><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" width="30" height="30"/>__SQLite/MySQL/MariaDB__ . <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/testrail.svg" width="25" height="25"/>__TestRail__
 
 
