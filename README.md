@@ -20,7 +20,7 @@ Currently, I am intensely studying techniques and tools by attending online cour
 At this point I consider myself as a mid-level software tester by my experience and knowledge I been learning in the last few years.
 
 ## Resume
-You can download my resume as a PDF from my Google Drive: https://drive.google.com/file/d/1sMokHb6XcVmwzWWMOHDZN6OgFDhBwJ3V/view?usp=sharing
+You can download my resume as a PDF from my Google Drive: https://drive.google.com/file/d/1BHBUrwDFdVoI3zfTJeLD1eSnf89hpY9d/view?usp=sharing
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
